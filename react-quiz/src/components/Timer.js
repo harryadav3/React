@@ -7,7 +7,7 @@ function Timer ({dispatch, secondsRemaining}) {
     useEffect( 
         function () {
             const id = setInterval(function() {
-                dispatch({type: "tick"});
+                dispatch({type: "timer"});
             },1000);
 
             return () => clearInterval(id);
@@ -23,3 +23,5 @@ function Timer ({dispatch, secondsRemaining}) {
         </div>
     )
 }
+
+export default Timer;
