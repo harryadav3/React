@@ -1,0 +1,54 @@
+
+part 1
+
+
+Q1 Develop a navigation bar using React components for the student library system.
+
+Q2 Use Redux middleware in a React-Redux setup to handle asynchronous operations. 
+
+Q3 Create a component that use render props to share functionality using React. 
+
+Q4 Use the React Testing Library to create simple test cases for a React component.
+
+Q5 Create a component that toggles content based on the student grade system using
+React.
+
+Q6 Develop components for managing state using useState and use Reducer hooks.
+
+Q7 Develop a component that uses images or icons related to LPU University within React components.
+
+Q8 Manage state and incorporate Redux into a basic React application.
+
+Q9 implement a React component for useState and use Effect hooks separately to manage component states and effects with any example.
+
+Q10 Develop a component that plays audio and video files using React components
+
+
+
+Q1 Build a simple drag-and-drop interface that allows users to reorder a list of items through drag- and-drop. Implement a visual cue to indicate the new position of the dragged item. Use React state, components and hooks to manage the list's data and user interactions
+
+Q2 Create React component for a simple registration form. The form should collect the user's name, email, and password. Upon submission, the form should validate the input fields and display any errors. If the form is successfully submitted, display a success message.
+
+
+Q3 Create an animation page using React
+
+Q4 Create a stopwatch application through which users can start, pause and reset the timer.
+
+Q5 Implement the LikeButton component with the following features:
+1. The component should display a button with a heart icon.
+2. When the button is clicked, it should toggle between liked and unliked states.
+3. Display the number of likes next to the button.
+4. If the post is liked, the button should be filled with the heart icon, and the number of likes should increase by one.
+5. If the post is unliked, the button should be outlined, and the number of likes should decrease by
+one.
+6. Users should be able to like and unlike a post multiple times, and the number of likes should adjust accordingly.
+
+Q6 Using a timer, create ten MCQ questions. Two minutes are allotted for each question.
+
+Q7 Write a program to create a counter with increment and decrement
+
+Q8 Develop a currency converter application that allows users to input an amount in one currency and convert it to another
+
+Q9 Implement a React component called TemperatureConverter for a weather application. This component should allow users to convert temperatures between Celsius and Fahrenheit.
+
+Q10 Design and implement this quiz application using React, focusing on concepts such as fetching data from an API, managing state, and conditional rendering.
